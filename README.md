@@ -33,7 +33,7 @@ This website is designed to:
 
 ## 🚀 **Getting Started**  
 
-1. Visit the live website: [IsopodTechGPT](https://isopodtechgpt-ai-chatgpt-snehaghosh.vercel.app/)  
+1. Visit the live website: [IsopodTechGPT](https://isopodtechgpt-vr-gemini.vercel.app/)  
 2. Explore the portfolio to discover projects and skills.  
 3. Connect with Sneha via the contact section for potential collaborations or discussions.  
 
