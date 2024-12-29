@@ -1,48 +1,98 @@
-## 🚨 Tutorial
+### IsopodTechGPT 
 
-This repository contains the corresponding tutorial available on our YouTube channel, <a href="https://www.youtube.com/@CodeScrapperOfficial/videos" target="_blank"><b>Code Scrapper</b></a>.
+**IsopodTechGPT** is an advanced, all-rounder AI chatbot designed to handle a wide range of tasks with precision, intelligence, and adaptability. Built to empower users in everyday activities, technical tasks, and creative endeavors, it leverages state-of-the-art AI to deliver seamless assistance across various domains.  
 
-## <a name="introduction">🤖 Introduction</a>
+---
 
-Our Gemini AI clone is a streamlined project management tool designed to enhance productivity and team collaboration. It offers intuitive AI response interfaces for task management, customizable boards for project tracking, and seamless integration capabilities to adapt to various workflows. Ideal for individuals and teams looking for an efficient way to organize tasks and projects.
+## 📌 **Overview**  
 
-## <a name="tech-stack">Tech Stack</a>
+This website is designed to:  
+- Highlight Sneha's professional journey and technical skills.  
+- Showcase projects and contributions in technology and design.  
+- Serve as a platform for collaboration and inspiration within the tech community.  
 
-- Next.js
-- Primsa
-- Shadcn
-- Tailwind Css
-- Gemini Ai
+### **Key Features**  
 
-## <a name="quick-start">Integration and Installation Process</a>
+- **Dynamic Portfolio**: Comprehensive collection of projects, including AI-driven solutions, web designs, and hackathon highlights.  
+- **Interactive Design**: Developed with modern technologies for an immersive and responsive user experience.  
+- **SEO-Optimized**: Built with Next.js to ensure fast, optimized, and scalable web performance.  
+- **Personal Insights**: Includes Sneha's vision, skills, and dedication to innovation and education.  
 
-Follow these steps to set up the project locally on your device.
+---
 
-**Prerequisites**
+## 🛠 **Technologies Used**  
 
-Make sure you have the following installed on your machine:
+| **Category**    | **Technologies**       |  
+|------------------|------------------------|  
+| **Framework**    | Next.js               |  
+| **Frontend**     | HTML, CSS, JavaScript |  
+| **Graphics/3D**  | three.js              |  
+| **Hosting**      | Vercel                |  
 
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/)
-- [Git](https://git-scm.com/)
+---
 
-**Clone this Project**
+## 🚀 **Getting Started**  
 
-```bash
-git clone https://github.com/CodeScrapper1/gemini-clone-nextjs.git
-cd gemini-clone-nextjs
-```
+1. Visit the live website: [IsopodTechGPT](https://isopodtechgpt-ai-chatgpt-snehaghosh.vercel.app/)  
+2. Explore the portfolio to discover projects and skills.  
+3. Connect with Sneha via the contact section for potential collaborations or discussions.  
 
-**Installation**
+### **Local Development**  
 
-Install dependencies using yarn:
+To run this project locally:  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-repo-link
+   ```  
+2. Navigate to the project directory:  
+   ```bash
+   cd isopodtechgpt  
+   ```  
+3. Install dependencies:  
+   ```bash
+   npm install  
+   ```  
+4. Run the development server:  
+   ```bash
+   npm run dev  
+   ```  
+5. Open `http://localhost:3000` in your browser to view the project.  
 
-```bash
-yarn
-```
+---
 
-**Running the Project using yarn**
+## 💡 **Vision**  
 
-```bash
-yarn run dev
-```
+At **IsopodTechGPT**, Sneha combines creativity with technology to:  
+- Build solutions that are innovative and user-centric.  
+- Inspire learning and collaboration in tech communities.  
+- Share knowledge and contribute to impactful projects in education, healthcare, and beyond.  
+
+---
+
+## 🤝 **Contributions & Feedback**  
+
+Contributions, feedback, and suggestions are highly encouraged to enhance the website. If you'd like to contribute:  
+1. Fork the repository.  
+2. Make your changes.  
+3. Submit a pull request for review.  
+
+---
+
+## 📬 **Contact Information**  
+
+For inquiries or collaboration opportunities, connect via: 
+- **Email**: [Contact Me](mailto:miss.webdesigner0013@gmail.com)
+- **GitHub**: [GitHub Profile](https://github.com/SnehaghoshBarsha444)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/sneha-ghosh-technical-isopod075/)
+- **Twitter**: [@IsopodTechnical](https://x.com/IsopodTechnical)  
+- **Medium**: [Medium Profile](https://medium.com/@Technical_Isopod_075)
+
+---
+
+### **License**  
+
+This project is licensed under the [MIT License](LICENSE).  
+
+---
+
+**Crafted with precision and passion using Next.js by [Sneha Ghosh](https://snehaghosh-technical-isopod-portfolio.vercel.app/)**
